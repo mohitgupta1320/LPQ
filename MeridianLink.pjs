@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{95F8F6BD-0400-4E52-B102-7CADC9201BBF}">
+	<children>
+		<child name="MeridianLink" key="{14C4248C-E47E-4796-8433-29E9475064E8}" path="MeridianLink.mds" />
+	</children>
+	<testItems key="{434DB32E-A1AB-490C-A9E9-83892A1E5DFB}">
+		<children>
+			<testItem key="{14C4248C-E47E-4796-8433-29E9475064E8}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{766924F0-6084-48AC-9A4E-DF9FDC42052E}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{66F79B37-5562-4D59-9F47-FF27EFE004B2}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>
