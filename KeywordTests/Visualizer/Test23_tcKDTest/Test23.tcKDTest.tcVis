@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{6B206D4E-C683-40F6-9767-844A97672A7E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43581.5074305556" objectName="Aliases.browser.BrowserWindow" objectLeft="-8" objectTop="-8" objectRight="1374" objectBottom="736" clickPointX="1330" clickPointY="12" imageFileName="tcvi1898945322081.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43587.2124537037" objectName="Aliases.browser.pageLoanspqXpressAccountsLogin.formAspnetform.table.cell.table.table2.radiobuttonYesRegisterTheCompute" objectLeft="350" objectTop="518" objectRight="363" objectBottom="531" clickPointX="359" clickPointY="526" imageFileName="tcvi26339212594000.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

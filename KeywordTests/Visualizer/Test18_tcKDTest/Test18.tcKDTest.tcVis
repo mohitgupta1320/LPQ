@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{AE767848-36B5-4F77-BF03-162744F6B8D0}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43579.2286689815" objectName="Aliases.browser.pageMainPage.formAspnetform.tableTable2.imagebuttonIbtnlogout" objectLeft="1017" objectTop="115" objectRight="1054" objectBottom="133" clickPointX="1038" clickPointY="122" imageFileName="tcvi15894209357762.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="16" kind="0" dateTime="43579.2449305556" objectName="Aliases.browser.pageShortApplication.formFrm.tableTable2.imageVlSectionTitleGif2" objectLeft="5" objectTop="178" objectRight="75" objectBottom="197" clickPointX="27" clickPointY="187" imageFileName="tcvi160347296110482.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
